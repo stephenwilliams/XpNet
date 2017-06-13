@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{39338E82-BC00-4DB7-B9DA-8D69756F125A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XpNet", "src\XpNet\XpNet.csproj", "{A30EE715-6D41-4DC3-BE86-4DEC9983C2FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A30EE715-6D41-4DC3-BE86-4DEC9983C2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30EE715-6D41-4DC3-BE86-4DEC9983C2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30EE715-6D41-4DC3-BE86-4DEC9983C2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30EE715-6D41-4DC3-BE86-4DEC9983C2FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A30EE715-6D41-4DC3-BE86-4DEC9983C2FC} = {39338E82-BC00-4DB7-B9DA-8D69756F125A}
+	EndGlobalSection
+EndGlobal
